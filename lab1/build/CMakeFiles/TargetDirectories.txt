@@ -1,0 +1,5 @@
+D:/Projects/Operating_systems/lab1/build/CMakeFiles/main.dir
+D:/Projects/Operating_systems/lab1/build/CMakeFiles/Creator.dir
+D:/Projects/Operating_systems/lab1/build/CMakeFiles/Reporter.dir
+D:/Projects/Operating_systems/lab1/build/CMakeFiles/ALL_BUILD.dir
+D:/Projects/Operating_systems/lab1/build/CMakeFiles/ZERO_CHECK.dir
