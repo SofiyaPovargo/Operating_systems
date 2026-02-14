@@ -7,9 +7,7 @@
 #include <stdexcept>
 
 
-void start_process(std::string command_line
-					// LPTSTR lpszCreatorProcessCommandLine
-					) {
+void start_process(std::string command_line) {
 	STARTUPINFO si;
 	PROCESS_INFORMATION pi;
 	ZeroMemory(&si, sizeof(STARTUPINFO));
@@ -70,8 +68,6 @@ int main() {
 	std::cin >> records;
 	
 	std::string creator_cmd = "Creator.exe " + bin_file_name + " " + std::to_string(records);
-	// std::wstring converting_creator_to_lpwstr = std::wstring(creator_cmd.begin(), creator_cmd.end());
-	// LPWSTR lpszCreatorProcessCommandLine = &converting_creator_to_lpwstr[0];
 
 	try {
 		start_process(creator_cmd);
@@ -102,8 +98,6 @@ int main() {
 	std::string rep_cmd = "Reporter.exe " + bin_file_name + " " +
 						repr_file_name + " " +
 					    std::to_string(price_per_hour);
-	// std::wstring converting_reporter_to_lpwstr = std::wstring(rep_cmd.begin(), rep_cmd.end());
-	// LPWSTR lpszReporterProcessCommandLine = &converting_reporter_to_lpwstr[0];
 
 	try {
 		start_process(rep_cmd);
@@ -122,7 +116,7 @@ int main() {
 		_getch();
         return 1;	
 	}
-	std::cout << "\nProgram completed successfully!";
+	std::cout << "Program completed successfully!";
 	_getch();
 	return 0;
 }
