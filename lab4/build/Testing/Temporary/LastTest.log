@@ -1,0 +1,30 @@
+Start testing: Apr 19 18:55 Беларусь (зима)
+----------------------------------------------------------
+1/1 Testing: BufferTest.FIFO_Logic
+1/1 Test: BufferTest.FIFO_Logic
+Command: "D:/Projects/Operating_systems/lab4/build/Release/unit_tests.exe" "--gtest_filter=BufferTest.FIFO_Logic" "--gtest_also_run_disabled_tests"
+Directory: D:/Projects/Operating_systems/lab4/build
+"BufferTest.FIFO_Logic" start time: Apr 19 18:55 Беларусь (зима)
+Output:
+----------------------------------------------------------
+Running main() from D:\Projects\Operating_systems\lab4\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = BufferTest.FIFO_Logic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufferTest
+[ RUN      ] BufferTest.FIFO_Logic
+[       OK ] BufferTest.FIFO_Logic (5 ms)
+[----------] 1 test from BufferTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BufferTest.FIFO_Logic" end time: Apr 19 18:55 Беларусь (зима)
+"BufferTest.FIFO_Logic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 19 18:55 Беларусь (зима)

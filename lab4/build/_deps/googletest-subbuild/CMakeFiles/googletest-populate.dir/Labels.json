@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/a80d4d7fb08d994d3f6801df2505e528/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/a525d05294560ee4496cb5fb569e3e57/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/Projects/Operating_systems/lab4/build/_deps/googletest-subbuild/CMakeFiles/b35bb15c9359046174221ee19d771380/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

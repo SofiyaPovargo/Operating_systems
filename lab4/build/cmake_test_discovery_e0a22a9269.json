@@ -1,0 +1,17 @@
+{
+  "tests": 1,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "BufferTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "FIFO_Logic",
+          "file": "D:\\Projects\\Operating_systems\\lab4\\tests\\test_logic.cpp",
+          "line": 5
+        }
+      ]
+    }
+  ]
+}
